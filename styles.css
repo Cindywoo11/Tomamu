@@ -1,0 +1,40 @@
+body {
+	font: 20px/2 "times new roman", times, serif;
+	color:#000;
+}
+
+h1 {text-shadow:-2px 2px 2px #999;}
+
+h2 {color:blue;}
+	text-shadow: -2px 2px 2px #999;}
+
+img {
+  border-width: 2px;
+  border-color: #ccc;
+  height: 100%; 
+  width: 100%; 
+  object-fit: contain
+}
+
+.topnav {
+  background-color: rgba(33, 36, 34, 0.938);
+  overflow: hidden;
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: rgb(33, 49, 43);
+}
+
+.topnav a.active {
+  background-color: rgb;
+  color: white;
