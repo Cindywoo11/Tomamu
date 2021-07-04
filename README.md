@@ -1,3 +1,3 @@
 # Tomamu
 
-this is from cs50
+Show and Tell DevOps 
