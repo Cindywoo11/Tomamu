@@ -1,3 +1,3 @@
 # Tomamu
 
-Show and Tell DevOps 
+CS50 project
